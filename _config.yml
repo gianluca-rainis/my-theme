@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Jekyll Dev Theme
+description: "Jekyll Dev Theme is a simple theme in old-computer style."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
