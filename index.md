@@ -1,4 +1,7 @@
 ---
+title: Jekyll Dev Theme
 ---
 
-# tonic-starter
+# Jekyll Dev Theme
+
+This is a simple Jekyll theme.
