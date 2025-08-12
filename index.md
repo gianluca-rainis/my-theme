@@ -1,5 +1,6 @@
 ---
 title: Jekyll Dev Theme
+layout: default
 ---
 
 # Jekyll Dev Theme
